@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @uday8898 UDAY GUPTA
 - 👀 I’m interested in ... Python
-- 🌱 I’m currently learning ...Java
 - 📫 How to reach me ... uday.gupta_cs.aiml21@gla.ac.in

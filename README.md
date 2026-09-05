@@ -68,10 +68,7 @@ Somewhere along the way I became the guy who knows why the logo has a white box 
 
 <sub>*Client names omitted. Ask me in a DM and I'll be vague with tremendous confidence.*</sub>
 
-## `$ ls ./public` &nbsp;<sub>*(the stuff you can actually click)*</sub>
-
-| | Project | What it does |
-|:--:|:--------|:-------------|
+--------|:-------------|
 | 🩺 | **[Diagnose](https://github.com/uday8898/skincancer)** | Skin cancer detection from a photo — [demo video](https://youtu.be/4SZCctRP6pY) |
 | 🌿 | **[Plant Disease Detection](https://github.com/uday8898/plantdisease-detection)** | Plant Pathology 2020 FGVC7 → [live Streamlit app](https://plantdisease-detection-uday8898.streamlit.app/) |
 | 🫁 | **[Medical Image Classifier](https://github.com/uday8898/Web-app-classification)** | Chest X-ray classification → [live Streamlit app](https://udaygupta-classificationwebapp.streamlit.app/) |
@@ -97,11 +94,6 @@ Somewhere along the way I became the guy who knows why the logo has a white box 
 ![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0B1F4D?style=flat-square&logo=microsoft&logoColor=white)
 ![Graph](https://img.shields.io/badge/Graph_API-2F2F92?style=flat-square&logo=microsoft&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-
-<br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=uday8898&show_icons=true&theme=react&hide_border=true&bg_color=0B1F4D&title_color=1C8EF4&icon_color=1547DF&text_color=ffffff" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday8898&layout=compact&theme=react&hide_border=true&bg_color=0B1F4D&title_color=1C8EF4&text_color=ffffff" />
 
 </div>
 

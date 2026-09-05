@@ -1,34 +1,25 @@
 <!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  UDAY GUPTA — GITHUB PROFILE README                          ║
-  ║  Lives in  uday8898/uday8898  (repo name === username)       ║
-  ║  so GitHub renders it on the profile page.                   ║
-  ║                                                              ║
-  ║  Portrait: ./assets/uday-contrib-full-light.png              ║
-  ╚══════════════════════════════════════════════════════════════╝
+  UDAY GUPTA — GITHUB PROFILE README
+  Lives in uday8898/uday8898 (repo name === username) so GitHub renders it on the profile.
+  Portrait: ./assets/uday-contrib-full-light.png
 -->
 
 <div align="center">
 
-<img src="./assets/uday-contrib-full-light.png" width="180" alt="Uday Gupta, rendered at 64x64 and regretting nothing" style="border-radius:12px;" />
-
-<br/>
+<img src="./assets/uday-contrib-full-light.png" width="170" alt="Uday Gupta, downsampled to 64x64 and regretting nothing" style="border-radius:12px;" />
 
 ```
 █░█ █▀▄ ▄▀█ █▄█   █▀▀ █░█ █▀█ ▀█▀ ▄▀█
 █▄█ █▄▀ █▀█ ░█░   █▄█ █▄█ █▀▀ ░█░ █▀█
 ```
 
-### `> Associate Product Engineer — AI @ Meridian Solutions`
+### `Associate Product Engineer — AI @ Meridian Solutions`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=1547DF&center=true&vCenter=true&width=650&lines=I+turn+client+RFPs+into+Azure+architectures.;Presales+deck+by+day%2C+FastAPI+by+night.;Copilot+Studio+%2B+Fabric+%2B+Azure+OpenAI+%3D+my+love+language.;Ask+me+about+Little's+Law+for+voice+agents." alt="Typing SVG" />
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=1547DF&center=true&vCenter=true&width=680&lines=I+write+the+proposal+AND+build+the+thing+it+promised.;Presales+deck+by+day%2C+FastAPI+by+night.;Certified+on+AWS.+Employed+on+Azure.+It's+complicated.;Ask+me+about+Little's+Law+for+voice+agents." alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1F4D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udayy/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uday8898)
 [![Location](https://img.shields.io/badge/Gurugram,_IN-1547DF?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![Azure](https://img.shields.io/badge/Azure_AI-1C8EF4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
 ![Profile Views](https://komarev.com/ghpvc/?username=uday8898&style=for-the-badge&color=1547DF&label=VISITORS)
 
 </div>
@@ -37,240 +28,101 @@
 
 ## `$ whoami`
 
-```python
-class UdayGupta:
-    def __init__(self):
-        self.role      = "Associate Product Engineer – AI"
-        self.company   = "Meridian Solutions Pvt. Ltd."   # Microsoft-partner Data & AI consultancy
-        self.since     = "Jan 2025"                        # started Aug 2024 as an AI Solutions Eng intern
-        self.base      = "Gurugram, Haryana, India 🇮🇳"
-        self.degree    = "B.Tech, AI & Machine Learning — GLA University, Mathura ('21–'25)"
+I live in the gap between **"can we sell this?"** and **"can we actually ship this?"** — and I do both, which means I have nobody to blame.
 
-        self.wears     = ["presales", "solutioning", "architecture", "delivery", "audits"]
-        self.sectors   = ["finance", "energy", "logistics", "pharma", "ports"]
-        self.stack     = ["Azure AI Foundry", "Microsoft Fabric", "Copilot Studio",
-                          "Azure OpenAI", "Python", "FastAPI", "React", "AKS"]
+Full engagement lifecycle at Meridian: pitch, BRD, SOW, architecture, delivery, Microsoft partner audits. Translation: I wrote the proposal, built the thing the proposal promised, *and* defended it in the audit room with benchmark numbers. Mostly Microsoft stack — Azure AI, Fabric, Copilot Studio, Graph, Power Automate — for Indian and regional enterprise clients.
 
-    def a_normal_tuesday(self):
-        return (
-            self.write_a_BRD()
-            .then(self.draw_an_HLD())
-            .then(self.build_the_thing())
-            .then(self.fix_the_whitespace_in_the_docx())  # ← the real boss fight
-        )
+Somewhere along the way I became the guy who knows why the logo has a white box behind it and fixes it with PIL pixel masking. Nobody applied for that job. It was assigned by fate.
 
-    @property
-    def signature(self):
-        return "Uday"
-```
+> **Currently obsessed with:** agentic architectures, voice AI, and enterprise documents that don't waste a single page.
 
 ---
 
-## `$ cat about.md`
+## `$ ls ./certifications`
 
-I sit in the weird, wonderful gap between **"can we sell this?"** and **"can we actually ship this?"** — and I do both.
+<div align="center">
 
-At Meridian I'm involved across the **full engagement lifecycle**: pre-sales pitches, SOW/BRD authoring, client proposals, technical delivery, solution architecture, and Microsoft partner **audit submissions**. Which is a formal way of saying: I've written the proposal, built the thing the proposal promised, *and* defended it in the audit room with a talk track and benchmark numbers.
+[![Azure Data Scientist](https://img.shields.io/badge/Microsoft_Certified-Azure_Data_Scientist_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
+[![AWS ML Specialty](https://img.shields.io/badge/AWS_Certified-Machine_Learning_Specialty-8C4FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white)](#)
 
-I work mostly inside the **Microsoft ecosystem** — Azure AI, Fabric, Copilot Studio, Graph API, Power Automate — for Indian and regional corporate clients. Somewhere along the way I became the person who knows why the logo has a white box behind it and how to fix it with PIL pixel masking.
+[![AWS MLE](https://img.shields.io/badge/AWS_Certified-ML_Engineer_Associate-1B72E8?style=for-the-badge&logo=amazonwebservices&logoColor=white)](#)
+[![AWS AI Practitioner](https://img.shields.io/badge/AWS_Certified-AI_Practitioner-5A6B7B?style=for-the-badge&logo=amazonwebservices&logoColor=white)](#)
 
-> **Currently obsessed with:** agentic architectures, voice AI, and making enterprise documents that don't waste a single page.
+<sub>Three AWS certs. Employed at a Microsoft partner. I contain multitudes and a great many exam vouchers.</sub>
+
+</div>
 
 ---
 
-## `$ ls -la ./things-i-have-built`
+## `$ ls ./work` &nbsp;<sub>*(the stuff behind NDAs)*</sub>
 
-| 🧠 | Thing | Stack |
+| | Thing | Stack |
 |:--:|:------|:------|
 | 🎙️ | **"Aarti" voice assistant** — real-time conversational agent | Azure Speech · GPT-4o · FastAPI · React |
-| ☎️ | **AI voice calling agent** — sized for ~500 calls/hr, concurrency modelled with Little's Law | Twilio (IVR + Media Streams) · Azure |
-| 🤖 | **Multi-agent "Organization 360"** — financial + HR + market data agents | Azure AI Foundry |
+| ☎️ | **AI voice calling agent** — ~500 calls/hr, concurrency modelled with Little's Law before anyone asked | Twilio Media Streams · Azure |
+| 🤖 | **"Organization 360"** — multi-agent finance + HR + market-data system | Azure AI Foundry |
 | 📊 | **Credit propensity pipelines** — bureau data, carded cases, lead alerting, BENPOS workflows | Python · pandas |
-| 🔔 | **Pipeline runner + alerting system** — 6-stage orchestration, dual webhook routing, monospace waterfall alerts | Python · Google Chat API |
-| ☸️ | **AKS HTTPS setup** — cert-manager + Let's Encrypt, done properly | Kubernetes · Azure |
-| 🧾 | **Document generation engine** — BRDs, SOWs, HLDs, LLDs, pricing calculators, RAI assessments | docx · openpyxl · pptxgenjs · ReportLab |
-| 🏢 | **Enterprise AI proposals** — finance, energy, logistics, pharma, ports | Azure · Copilot stack |
+| 🧾 | **Document generation engine** — BRDs, SOWs, HLDs, pricing calculators, RAI assessments | docx · openpyxl · ReportLab |
 
-<sub>*(Client names deliberately omitted — most of this lives behind NDAs. Ask me in a DM.)*</sub>
+<sub>*Client names omitted. Ask me in a DM and I'll be vague with tremendous confidence.*</sub>
+
+## `$ ls ./public` &nbsp;<sub>*(the stuff you can actually click)*</sub>
+
+| | Project | What it does |
+|:--:|:--------|:-------------|
+| 🩺 | **[Diagnose](https://github.com/uday8898/skincancer)** | Skin cancer detection from a photo — [demo video](https://youtu.be/4SZCctRP6pY) |
+| 🌿 | **[Plant Disease Detection](https://github.com/uday8898/plantdisease-detection)** | Plant Pathology 2020 FGVC7 → [live Streamlit app](https://plantdisease-detection-uday8898.streamlit.app/) |
+| 🫁 | **[Medical Image Classifier](https://github.com/uday8898/Web-app-classification)** | Chest X-ray classification → [live Streamlit app](https://udaygupta-classificationwebapp.streamlit.app/) |
+| 🧪 | **[Skin Diseases Diagnosis](https://github.com/uday8898/SkinDiseasesDiagnosis-IntelHackathon)** | CNN classifier built for the Intel Gen AI Hackathon |
 
 ---
 
-## `$ pip list --user`
+## `$ pip list`
 
 <div align="center">
-
-**Languages & Core**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-**Azure & Microsoft**
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Fabric](https://img.shields.io/badge/Microsoft_Fabric-1547DF?style=flat-square&logo=microsoft&logoColor=white)
-![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0B1F4D?style=flat-square&logo=microsoft&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
-![Graph API](https://img.shields.io/badge/Microsoft_Graph-2F2F92?style=flat-square&logo=microsoft&logoColor=white)
-
-**Infra & Ops**
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/AKS-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AKS](https://img.shields.io/badge/AKS-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
 
-</div>
-
----
-
-## `$ git log --stat`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=uday8898&show_icons=true&theme=react&hide_border=true&bg_color=0B1F4D&title_color=1C8EF4&icon_color=1547DF&text_color=ffffff" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday8898&layout=compact&theme=react&hide_border=true&bg_color=0B1F4D&title_color=1C8EF4&text_color=ffffff" />
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Fabric](https://img.shields.io/badge/Fabric-1547DF?style=flat-square&logo=microsoft&logoColor=white)
+![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0B1F4D?style=flat-square&logo=microsoft&logoColor=white)
+![Graph](https://img.shields.io/badge/Graph_API-2F2F92?style=flat-square&logo=microsoft&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=uday8898&theme=react&hide_border=true&background=0B1F4D&ring=1547DF&fire=1C8EF4&currStreakLabel=1C8EF4" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=uday8898&theme=algolia&no-frame=true&column=7&margin-w=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=uday8898&show_icons=true&theme=react&hide_border=true&bg_color=0B1F4D&title_color=1C8EF4&icon_color=1547DF&text_color=ffffff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday8898&layout=compact&theme=react&hide_border=true&bg_color=0B1F4D&title_color=1C8EF4&text_color=ffffff" />
 
 </div>
 
 ---
 
-## `$ cat design-system.json`
-
-Because the brand palette lives rent-free in my head:
-
-```jsonc
-{
-  "meridian": {
-    "navy":  "#0B1F4D",   // ███  headers, authority, "this is a serious document"
-    "blue":  "#1547DF",   // ███  the primary, the workhorse
-    "cyan":  "#1C8EF4"    // ███  accents, callouts, the fun one
-  },
-  "type": { "headers": "Bookman Old Style", "body": "Calibri" },
-  "rules": [
-    "no wasted pages",
-    "no forced page breaks",
-    "no excessive whitespace",
-    "client-ready or it doesn't ship"
-  ]
-}
-```
-
----
-
 <div align="center">
 
-## `$ ./snake.sh`
-
-<img src="https://raw.githubusercontent.com/uday8898/uday8898/output/snake.svg" alt="Snake eating my contributions" />
-
-<sub>*(needs the [snk action](https://github.com/Platane/snk) — setup snippet at the bottom)*</sub>
-
-</div>
-
----
-
-## `$ echo $PHILOSOPHY`
-
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   A proposal you can't deliver is fiction.                  │
-│   A delivery nobody scoped is chaos.                        │
-│   I try very hard to live in the middle.                    │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐
+│  A proposal you can't deliver is fiction.    │
+│  A delivery nobody scoped is chaos.          │
+│  I try very hard to live in the middle.      │
+└──────────────────────────────────────────────┘
 ```
-
----
-
-<div align="center">
-
-## `$ curl -X POST /contact`
 
 Open to conversations about **enterprise AI**, **Azure architecture**, **agentic systems**, and **why your Copilot agent isn't grounding properly**.
 
-[![LinkedIn](https://img.shields.io/badge/Let's_talk_on_LinkedIn-0B1F4D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udayy/)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uday8898)
-
-<br/>
+[![LinkedIn](https://img.shields.io/badge/Let's_talk-0B1F4D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udayy/)
+[![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uday8898)
 
 ```
 > exit
 Connection to uday closed. 🫡
 ```
 
-<sub>*Built with Python, PIL, and an unreasonable number of image resamples.*</sub>
-
 </div>
-
----
-
-<details>
-<summary><b>⚙️ Setup: enabling the snake animation</b></summary>
-
-Create `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-  push: { branches: [main] }
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
-<details>
-<summary><b>🎨 Want a different pixel size?</b></summary>
-
-```python
-from PIL import Image, ImageEnhance
-
-src = Image.open("photo.png").convert("RGB")
-src = ImageEnhance.Color(src).enhance(1.25)
-src = ImageEnhance.Contrast(src).enhance(1.15)
-
-PX, COLORS, FINAL = 64, 32, 512   # ← tweak these
-
-small = src.resize((PX, PX), Image.Resampling.BOX)
-small = small.quantize(colors=COLORS, dither=Image.Dither.NONE).convert("RGB")
-small.resize((FINAL, FINAL), Image.Resampling.NEAREST).save("uday-pixel.png")
-```
-
-Lower `PX` = chunkier. Lower `COLORS` = more retro. `32 / 16` is full Game Boy energy.
-
-</details>

@@ -42,11 +42,13 @@ Somewhere along the way I became the guy who knows why the logo has a white box 
 
 <div align="center">
 
-[![Azure Data Scientist](https://img.shields.io/badge/Microsoft_Certified-Azure_Data_Scientist_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
-[![AWS ML Specialty](https://img.shields.io/badge/AWS_Certified-Machine_Learning_Specialty-8C4FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white)](#)
-
-[![AWS MLE](https://img.shields.io/badge/AWS_Certified-ML_Engineer_Associate-1B72E8?style=for-the-badge&logo=amazonwebservices&logoColor=white)](#)
-[![AWS AI Practitioner](https://img.shields.io/badge/AWS_Certified-AI_Practitioner-5A6B7B?style=for-the-badge&logo=amazonwebservices&logoColor=white)](#)
+<a href="#"><img src="./assets/certs/azure-data-scientist-associate.png" height="115" alt="Microsoft Certified: Azure Data Scientist Associate" /></a>
+&nbsp;
+<a href="#"><img src="./assets/certs/aws-ai-practitioner.png" height="115" alt="AWS Certified AI Practitioner" /></a>
+&nbsp;
+<a href="#"><img src="./assets/certs/aws-ml-engineer-associate.png" height="115" alt="AWS Certified Machine Learning Engineer - Associate" /></a>
+&nbsp;
+<a href="#"><img src="./assets/certs/aws-ml-specialty.png" height="115" alt="AWS Certified Machine Learning - Specialty" /></a>
 
 <sub>Three AWS certs. Employed at a Microsoft partner. I contain multitudes and a great many exam vouchers.</sub>
 

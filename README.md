@@ -1,19 +1,16 @@
 <!--
   ╔══════════════════════════════════════════════════════════════╗
   ║  UDAY GUPTA — GITHUB PROFILE README                          ║
-  ║  Drop this file in a repo named exactly: UdayGupta/UdayGupta ║
-  ║  (repo name === your username) and it renders on your profile ║
+  ║  Lives in  uday8898/uday8898  (repo name === username)       ║
+  ║  so GitHub renders it on the profile page.                   ║
   ║                                                              ║
-  ║  BEFORE YOU PUSH:                                            ║
-  ║   1. Find + replace  uday8898  → your real GitHub handle   ║
-  ║   2. Find + replace  udayy → your LinkedIn slug       ║
-  ║   3. Put uday-pixel.png in  ./assets/                         ║
+  ║  Portrait: ./assets/uday-contrib-full-light.png              ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
-<img src="./assets/uday-pixel.png" width="180" alt="Uday Gupta, rendered at 64x64 and regretting nothing" style="border-radius:12px;" />
+<img src="./assets/uday-contrib-full-light.png" width="180" alt="Uday Gupta, rendered at 64x64 and regretting nothing" style="border-radius:12px;" />
 
 <br/>
 
@@ -28,7 +25,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1F4D?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/udayy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1F4D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udayy/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uday8898)
 [![Location](https://img.shields.io/badge/Gurugram,_IN-1547DF?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Azure](https://img.shields.io/badge/Azure_AI-1C8EF4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
 ![Profile Views](https://komarev.com/ghpvc/?username=uday8898&style=for-the-badge&color=1547DF&label=VISITORS)
@@ -142,7 +140,7 @@ I work mostly inside the **Microsoft ecosystem** — Azure AI, Fabric, Copilot S
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=uday8898B&theme=algolia&no-frame=true&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=uday8898&theme=algolia&no-frame=true&column=7&margin-w=8" />
 
 </div>
 
@@ -203,7 +201,8 @@ Because the brand palette lives rent-free in my head:
 
 Open to conversations about **enterprise AI**, **Azure architecture**, **agentic systems**, and **why your Copilot agent isn't grounding properly**.
 
-[![LinkedIn](https://img.shields.io/badge/Let's_talk_on_LinkedIn-0B1F4D?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/udayy)
+[![LinkedIn](https://img.shields.io/badge/Let's_talk_on_LinkedIn-0B1F4D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udayy/)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uday8898)
 
 <br/>
 

@@ -4,10 +4,6 @@
   Portrait: ./assets/uday-contrib-full-light.png
 -->
 
-<div align="center">
-
-<img src="./assets/uday-contrib-full-light.png" width="170" alt="Uday Gupta, downsampled to 64x64 and regretting nothing" style="border-radius:12px;" />
-
 ```
 █░█ █▀▄ ▄▀█ █▄█   █▀▀ █░█ █▀█ ▀█▀ ▄▀█
 █▄█ █▄▀ █▀█ ░█░   █▄█ █▄█ █▀▀ ░█░ █▀█

@@ -5,8 +5,8 @@
   ║  (repo name === your username) and it renders on your profile ║
   ║                                                              ║
   ║  BEFORE YOU PUSH:                                            ║
-  ║   1. Find + replace  UDAY-GITHUB  → your real GitHub handle   ║
-  ║   2. Find + replace  UDAY-LINKEDIN → your LinkedIn slug       ║
+  ║   1. Find + replace  uday8898  → your real GitHub handle   ║
+  ║   2. Find + replace  udayy → your LinkedIn slug       ║
   ║   3. Put uday-pixel.png in  ./assets/                         ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
@@ -28,10 +28,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1F4D?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/UDAY-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1F4D?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/udayy)
 [![Location](https://img.shields.io/badge/Gurugram,_IN-1547DF?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Azure](https://img.shields.io/badge/Azure_AI-1C8EF4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
-![Profile Views](https://komarev.com/ghpvc/?username=UDAY-GITHUB&style=for-the-badge&color=1547DF&label=VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=uday8898&style=for-the-badge&color=1547DF&label=VISITORS)
 
 </div>
 
@@ -133,16 +133,16 @@ I work mostly inside the **Microsoft ecosystem** — Azure AI, Fabric, Copilot S
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=UDAY-GITHUB&show_icons=true&theme=react&hide_border=true&bg_color=0B1F4D&title_color=1C8EF4&icon_color=1547DF&text_color=ffffff" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UDAY-GITHUB&layout=compact&theme=react&hide_border=true&bg_color=0B1F4D&title_color=1C8EF4&text_color=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=uday8898&show_icons=true&theme=react&hide_border=true&bg_color=0B1F4D&title_color=1C8EF4&icon_color=1547DF&text_color=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday8898&layout=compact&theme=react&hide_border=true&bg_color=0B1F4D&title_color=1C8EF4&text_color=ffffff" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UDAY-GITHUB&theme=react&hide_border=true&background=0B1F4D&ring=1547DF&fire=1C8EF4&currStreakLabel=1C8EF4" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=uday8898&theme=react&hide_border=true&background=0B1F4D&ring=1547DF&fire=1C8EF4&currStreakLabel=1C8EF4" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=UDAY-GITHUB&theme=algolia&no-frame=true&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=uday8898B&theme=algolia&no-frame=true&column=7&margin-w=8" />
 
 </div>
 
@@ -175,7 +175,7 @@ Because the brand palette lives rent-free in my head:
 
 ## `$ ./snake.sh`
 
-<img src="https://raw.githubusercontent.com/UDAY-GITHUB/UDAY-GITHUB/output/snake.svg" alt="Snake eating my contributions" />
+<img src="https://raw.githubusercontent.com/uday8898/uday8898/output/snake.svg" alt="Snake eating my contributions" />
 
 <sub>*(needs the [snk action](https://github.com/Platane/snk) — setup snippet at the bottom)*</sub>
 
@@ -203,7 +203,7 @@ Because the brand palette lives rent-free in my head:
 
 Open to conversations about **enterprise AI**, **Azure architecture**, **agentic systems**, and **why your Copilot agent isn't grounding properly**.
 
-[![LinkedIn](https://img.shields.io/badge/Let's_talk_on_LinkedIn-0B1F4D?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/UDAY-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/Let's_talk_on_LinkedIn-0B1F4D?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/udayy)
 
 <br/>
 
